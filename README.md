@@ -1,5 +1,5 @@
-# LifeCycle fo Data Scient Project 
--------------------------------------------------
+# Lifecycle fo Data Scient Project 
+
 ### 1. Defining the problem statement  
 ### 2. Collecting the data
 ### 3. Exploratory data analysis
@@ -8,4 +8,5 @@
 ### 6. Testing
 
 
-# Author Vishal Bule
+
+# Author: Vishal Bule
